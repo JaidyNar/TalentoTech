@@ -1,1 +1,1 @@
-probando sincronización
+probando sincronización desde git Hut
